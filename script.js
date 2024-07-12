@@ -1,1 +1,3 @@
-alert('External script executed from GitHub Pages');
+// test-cookie-access.js
+console.log("External script executed");
+console.log("Document cookies:", document.cookie);
